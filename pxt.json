@@ -1,5 +1,5 @@
 {
-    "name": "Cronómetro simple",
+    "name": "Cronómetro con reset",
     "description": "",
     "dependencies": {
         "core": "*",
